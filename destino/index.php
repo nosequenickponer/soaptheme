@@ -45,7 +45,7 @@
 					<li class="menu_item menu_mm"><a href="about.html">About us</a></li>
 					<li class="menu_item menu_mm"><a href="offers.html">Offers</a></li>
 					<li class="menu_item menu_mm"><a href="news.html">News</a></li>
-					<li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
+					<li class="menu_item menu_mm"><a href="contact.php">Contact</a></li>
 				</ul>
 
 				<!-- Menu Social -->
@@ -73,8 +73,8 @@
 		<div class="home_background" style="background-image:url(images/home.jpg)"></div>
 		<div class="home_content">
 			<div class="home_content_inner">
-				<div class="home_text_large">discover</div>
-				<div class="home_text_small">Discover new worlds</div>
+				<div class="home_text_large">mundos</div>
+				<div class="home_text_small">Descubre nuevos mundos</div>
 			</div>
 		</div>
 	</div>
