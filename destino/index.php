@@ -11,9 +11,9 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
-<link href="plugins/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<link rel="stylesheet" type="text/css" href="inc/css.css">
 </head>
 <body>
 
@@ -41,10 +41,10 @@
 					</form>
 				</div>
 				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="#">Home</a></li>
-					<li class="menu_item menu_mm"><a href="about.html">About us</a></li>
-					<li class="menu_item menu_mm"><a href="offers.html">Offers</a></li>
-					<li class="menu_item menu_mm"><a href="news.html">News</a></li>
+					<li class="menu_item menu_mm"><a href="index.php">Home</a></li>
+					<li class="menu_item menu_mm"><a href="wip.html">About us</a></li>
+					<li class="menu_item menu_mm"><a href="wip.html">Offers</a></li>
+					<li class="menu_item menu_mm"><a href="wip.html">News</a></li>
 					<li class="menu_item menu_mm"><a href="contact.php">Contact</a></li>
 				</ul>
 
@@ -52,11 +52,11 @@
 				
 				<div class="menu_social_container menu_mm">
 					<ul class="menu_social menu_mm">
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 
@@ -90,8 +90,8 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Top destinations in Europe</h2>
-						<div>take a look at these offers</div>
+						<h2>Los mejores destinos en Europa</h2>
+						<div>Echa un vistazo a nuestras ofertas</div>
 					</div>
 				</div>
 			</div>
@@ -101,11 +101,11 @@
 
 					<!-- Top Destination Item -->
 					<div class="top_item">
-						<a href="#">
+						<a href="wip.html">
 							<div class="top_item_image"><img src="images/top_1.jpg" alt="https://unsplash.com/@sgabriel"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
-								<div class="top_item_text">Paris, France</div>
+								<div class="top_item_price">Desde 890 €</div>
+								<div class="top_item_text">Paris, Francia</div>
 							</div>
 						</a>
 					</div>
@@ -115,11 +115,11 @@
 
 					<!-- Top Destination Item -->
 					<div class="top_item">
-						<a href="#">
+						<a href="wip.html">
 							<div class="top_item_image"><img src="images/top_2.jpg" alt="https://unsplash.com/@jenspeter"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
-								<div class="top_item_text">Italian Riviera</div>
+								<div class="top_item_price">Desde 890 €</div>
+								<div class="top_item_text">Riviera, Italia</div>
 							</div>
 						</a>
 					</div>
@@ -129,10 +129,10 @@
 
 					<!-- Top Destination Item -->
 					<div class="top_item">
-						<a href="#">
+						<a href="wip.html">
 							<div class="top_item_image"><img src="images/top_3.jpg" alt="https://unsplash.com/@anikindimitry"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
+								<div class="top_item_price">Desde 890 €</div>
 								<div class="top_item_text">Cinque Terre</div>
 							</div>
 						</a>
@@ -143,11 +143,11 @@
 
 					<!-- Top Destination Item -->
 					<div class="top_item">
-						<a href="#">
+						<a href="wip.html">
 							<div class="top_item_image"><img src="images/top_4.jpg" alt="https://unsplash.com/@hellolightbulb"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
-								<div class="top_item_text">Santorini, Greece</div>
+								<div class="top_item_price">Desde 890 €</div>
+								<div class="top_item_text">Santorini, Grecia</div>
 							</div>
 						</a>	
 					</div>
@@ -169,11 +169,11 @@
 				<div class="col-lg-6 last_col">
 					<div class="last_item">
 						<div class="last_item_content">
-							<div class="last_subtitle">maldive</div>
+							<div class="last_subtitle">Maldivas</div>
 							<div class="last_percent">50%</div>
-							<div class="last_title">Last Minute Offer</div>
+							<div class="last_title">"Last Minute"</div>
 							<div class="last_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel.</div>
-							<div class="button last_button"><a href="offers.html">See Offer</a></div>
+							<div class="button last_button"><a href="wip.html">Ver Ofertas</a></div>
 						</div>
 					</div>
 				</div>
@@ -182,9 +182,9 @@
 						<div class="last_item_content">
 							<div class="last_subtitle">bali</div>
 							<div class="last_percent">38%</div>
-							<div class="last_title">Last Minute Offer</div>
+							<div class="last_title">"Last Minute"</div>
 							<div class="last_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel.</div>
-							<div class="button last_button"><a href="offers.html">See Offer</a></div>
+							<div class="button last_button"><a href="wip.html">Ver Ofertas</a></div>
 						</div>
 					</div>
 				</div>
@@ -198,10 +198,10 @@
 		<!-- Image by https://unsplash.com/@peecho -->
 		<div class="video_background parallax-window" data-parallax="scroll" data-image-src="images/video.jpg" data-speed="0.8"></div>
 		<div class="video_content">
-			<div class="video_title">A day on the island</div>
-			<div class="video_subtitle">A trip organized by Destino's team</div>
+			<div class="video_title">Un día en Islandia</div>
+			<div class="video_subtitle">Un viaje organizado por Jordi y Esteban </div>
 			<div class="video_play">
-				<a  class="video" href="https://www.youtube.com/watch?v=BzMLA8YIgG0">
+				
 					<svg version="1.1" id="Layer_1" class="play_button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 						 width="140px" height="140px" viewBox="0 0 140 140" enable-background="new 0 0 140 140" xml:space="preserve">
 						<g id="Layer_2">
@@ -221,8 +221,8 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Popular destinations in 2018</h2>
-						<div>take a look at these offers</div>
+						<h2>Destinos populares del 2018</h2>
+						<div>Echa un vistazo a nuestras ofertas</div>
 					</div>
 				</div>
 			</div>
@@ -232,21 +232,21 @@
 						
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_1.jpg" alt="image by Egzon Bytyqi">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Turkey</div>
+									<div class="popular_item_price">Desde 890 €</div>
+									<div class="popular_item_title">Turquia</div>
 								</div>
 							</a>	
 						</div>
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_2.jpg" alt="https://unsplash.com/@michael75">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
+									<div class="popular_item_price">Desde 890 €</div>
 									<div class="popular_item_title">Hawai</div>
 								</div>
 							</a>	
@@ -254,43 +254,43 @@
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_3.jpg" alt="https://unsplash.com/@sapegin">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Ireland</div>
+									<div class="popular_item_price">Desde 890 €</div>
+									<div class="popular_item_title">Irlanda</div>
 								</div>
 							</a>	
 						</div>
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_4.jpg" alt="https://unsplash.com/@kensuarez">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Thailand</div>
+									<div class="popular_item_price">Desde 890 €</div>
+									<div class="popular_item_title">Tailandia</div>
 								</div>
 							</a>
 						</div>
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_5.jpg" alt="https://unsplash.com/@noahbasle">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Croatia</div>
+									<div class="popular_item_price">Desde 890 €</div>
+									<div class="popular_item_title">Croacia</div>
 								</div>
 							</a>
 						</div>
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_6.jpg" alt="https://unsplash.com/@seb">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
+									<div class="popular_item_price">Desde 890 €</div>
 									<div class="popular_item_title">Bali</div>
 								</div>
 							</a>
@@ -298,21 +298,21 @@
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_7.jpg" alt="https://unsplash.com/@nevenkrcmarek">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">France</div>
+									<div class="popular_item_price">Desde 890 €</div>
+									<div class="popular_item_title">Francia</div>
 								</div>
 							</a>	
 						</div>
 
 						<!-- Popular Item -->
 						<div class="popular_item">
-							<a href="offers.html">
+							<a href="wip.html">
 								<img src="images/popular_8.jpg" alt="https://unsplash.com/@bergeryap87">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
+									<div class="popular_item_price">Desde 890 €</div>
 									<div class="popular_item_title">Vietnam</div>
 								</div>
 							</a>
@@ -331,8 +331,8 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Special offers</h2>
-						<div>take a look at these offers</div>
+						<h2>Ofertas especiales</h2>
+						<div>Echa un vistazo</div>
 					</div>
 				</div>
 			</div>
@@ -346,8 +346,8 @@
 						<div class="special_item">
 							<div class="special_item_background"><img src="images/special_1.jpg" alt="https://unsplash.com/@garciasaldana_"></div>
 							<div class="special_item_content text-center">
-								<div class="special_category">Visiting</div>
-								<div class="special_title"><a href="offers.html">Indonesia</a></div>
+								<div class="special_category">Visitando</div>
+								<div class="special_title"><a href="wip.html">Indonesia</a></div>
 							</div>
 						</div>
 					</div>
@@ -357,8 +357,8 @@
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_2.jpg" alt="https://unsplash.com/@varshesh"></div>
 							<div class="special_item_content text-center">
-								<div class="special_category">Culture</div>
-								<div class="special_title"><a href="offers.html">India</a></div>
+								<div class="special_category">Cultura</div>
+								<div class="special_title"><a href="wip.html">India</a></div>
 							</div>
 						</div>
 					</div>
@@ -368,8 +368,8 @@
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_3.jpg" alt="https://unsplash.com/@paulgilmore_"></div>
 							<div class="special_item_content text-center">
-								<div class="special_category">Sunbathing</div>
-								<div class="special_title"><a href="offers.html">Thailand</a></div>
+								<div class="special_category">Toma el Sol</div>
+								<div class="special_title"><a href="wip.html">Thailand</a></div>
 							</div>
 						</div>
 					</div>
@@ -379,8 +379,8 @@
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_4.jpg" alt="https://unsplash.com/@hellolightbulb"></div>
 							<div class="special_item_content text-center">
-								<div class="special_category">Visiting</div>
-								<div class="special_title"><a href="offers.html">Bali</a></div>
+								<div class="special_category">Visitando</div>
+								<div class="special_title"><a href="wip.html">Bali</a></div>
 							</div>
 						</div>
 					</div>
@@ -390,8 +390,8 @@
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_5.jpg" alt="https://unsplash.com/@dnevozhai"></div>
 							<div class="special_item_content text-center">
-								<div class="special_category">Visiting</div>
-								<div class="special_title"><a href="offers.html">France</a></div>
+								<div class="special_category">Visitando</div>
+								<div class="special_title"><a href="wip.html">Francia</a></div>
 							</div>
 						</div>
 					</div>
@@ -414,12 +414,12 @@
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1">
 					<div class="newsletter_content">
-						<div class="newsletter_title text-center">Subscribe to our Newsletter</div>
+						<div class="newsletter_title text-center">Suscribete para más ofertas</div>
 						<div class="newsletter_form_container">
 							<form action="#" id="newsletter_form" class="newsletter_form">
 								<div class="d-flex flex-md-row flex-column align-content-center justify-content-between">
 									<input type="email" id="newsletter_input" class="newsletter_input" placeholder="Your E-mail Address">
-									<button type="submit" id="newsletter_button" class="newsletter_button">Subscribe</button>
+									<button type="submit" id="newsletter_button" class="newsletter_button">Suscribete</button>
 								</div>
 							</form>
 						</div>

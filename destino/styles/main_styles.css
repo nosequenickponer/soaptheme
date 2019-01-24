@@ -311,7 +311,7 @@ section
 {
 	width: 100%;
 	height: 121px;
-	background: #131a2f;
+
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
@@ -439,6 +439,7 @@ section
 .main_nav_item.active a
 {
 	color: #fe435b;
+	font-weight: bold;
 }
 .main_nav_item:hover a
 {
@@ -463,6 +464,7 @@ section
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
+	border-radius:5px;
 }
 .search.active
 {
@@ -478,6 +480,7 @@ section
 	position: relative;
 	width: 100%;
 	height: 100%;
+
 }
 .search_input
 {
@@ -528,6 +531,7 @@ section
 	outline: none;
 	cursor: pointer;
 	pointer-events: none;
+	border-radius: 5px;
 }
 .search_button img
 {

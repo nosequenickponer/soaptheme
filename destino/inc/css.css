@@ -1,0 +1,29 @@
+.nav_bar
+{
+	width: 100%;
+	height: 121px;
+
+	-webkit-transition: all 400ms ease;
+	-moz-transition: all 400ms ease;
+	-ms-transition: all 400ms ease;
+	-o-transition: all 400ms ease;
+    transition: all 400ms ease;
+    background-color:#fe435c44;
+    border-radius: 5px;
+}
+.redondo
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 121px;
+	height: 100%;
+	background: #fe435b;
+	cursor: pointer;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+	border-radius: 5px;
+}

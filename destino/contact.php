@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Contact</title>
+<title>Contacto</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Destino project">
@@ -10,6 +10,7 @@
 <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/contact_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
+<link rel="stylesheet" type="text/css" href="inc/css.css">
 </head>
 <body>
 
@@ -37,23 +38,17 @@
 						<button id="menu_search_submit" class="menu_search_submit" type="submit"><img src="images/search_2.png" alt=""></button>
 					</form>
 				</div>
-				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="index.php">Home</a></li>
-					<li class="menu_item menu_mm"><a href="#">About us</a></li>
-					<li class="menu_item menu_mm"><a href="#">Offers</a></li>
-					<li class="menu_item menu_mm"><a href="#">News</a></li>
-					<li class="menu_item menu_mm"><a href="#">Contact</a></li>
-				</ul>
+
 
 				<!-- Menu Social -->
 				
 				<div class="menu_social_container menu_mm">
 					<ul class="menu_social menu_mm">
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li class="menu_social_item menu_mm"><a href="wip.html"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 
@@ -100,8 +95,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<div class="contact_title">Get in touch</div>
-					<div class="contact_subtitle">say hello</div>
+					<div class="contact_title">Contactanos</div>
+					<div class="contact_subtitle">Atención al cliente online</div>
 				</div>
 			</div>
 			<div class="row contact_content">
@@ -114,17 +109,17 @@
 						<div class="contact_info_container">
 							<div class="contact_info_content">
 								<ul>
-									<li>Address: 1481 Creekside Lane Avila Beach, CA 93424</li>
-									<li>Phone: +53 345 7953 32453</li>
-									<li>Email: miloThemes@gmail.com</li>
+									<li>Dirección: Carrer Sebastià Arrom, 3, 5, 07008 Palma, Islas Baleares</li>
+									<li>Teléfono: +53 345 7953 32453</li>
+									<li>E-mail: estebanyjordi@gmail.com</li>
 								</ul>
 							</div>
 							<div class="contact_info_social">
 								<ul>
-									<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="wip.html"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+									<li><a href="wip.html"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+									<li><a href="wip.html"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="wip.html"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -133,11 +128,11 @@
 				<div class="col-lg-7">
 					<div class="contact_form_container">
 						<form action="#" id="contact_form" class="clearfix">
-							<input id="contact_input_name" class="contact_input contact_input_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
+							<input id="contact_input_name" class="contact_input contact_input_name" type="text" placeholder="Nombre" required="required" data-error="Name is required.">
 							<input id="contact_input_email" class="contact_input contact_input_email" type="text" placeholder="E-mail" required="required" data-error="E-mail is required.">
-							<input id="contact_input_subject" class="contact_input contact_input_subject" type="text" placeholder="Subject">
-							<textarea id="contact_input_message" class="contact_message_input contact_input_message" name="message" placeholder="Message" required="required" data-error="Please, write us a message."></textarea>
-							<button id="contact_send_btn" type="submit" class="contact_send_btn trans_200" value="Submit">Send</button>
+							<input id="contact_input_subject" class="contact_input contact_input_subject" type="text" placeholder="Asunto">
+							<textarea id="contact_input_message" class="contact_message_input contact_input_message" name="message" placeholder="Mensaje" required="required" data-error="Please, write us a message."></textarea>
+							<button id="contact_send_btn" type="submit" class="contact_send_btn trans_200" value="Submit">Enviar</button>
 						</form>
 					</div>
 				</div>
@@ -166,12 +161,12 @@
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1">
 					<div class="newsletter_content">
-						<div class="newsletter_title text-center">Subscribe to our Newsletter</div>
+						<div class="newsletter_title text-center">Suscribete para más ofertas</div>
 						<div class="newsletter_form_container">
 							<form action="#" id="newsletter_form" class="newsletter_form">
 								<div class="d-flex flex-md-row flex-column align-content-center justify-content-between">
-									<input type="email" id="newsletter_input" class="newsletter_input" placeholder="Your E-mail Address">
-									<button type="submit" id="newsletter_button" class="newsletter_button">Subscribe</button>
+									<input type="email" id="newsletter_input" class="newsletter_input" placeholder="Tu correo electrónico">
+									<button type="submit" id="newsletter_button" class="newsletter_button">Suscribete</button>
 								</div>
 							</form>
 						</div>
