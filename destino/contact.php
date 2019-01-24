@@ -74,11 +74,11 @@
 				<div class="col">
 					<div class="home_content">
 						<div class="home_content_inner">
-							<div class="home_title">Contact</div>
+							<div class="home_title">Contacto</div>
 							<div class="home_breadcrumbs">
 								<ul class="home_breadcrumbs_list">
-									<li class="home_breadcrumb"><a href="index.php">Home</a></li>
-									<li class="home_breadcrumb">Contact</li>
+									<li class="home_breadcrumb"><a href="index.php">Inicio</a></li>
+									<li class="home_breadcrumb">Contacto</li>
 								</ul>
 							</div>
 						</div>

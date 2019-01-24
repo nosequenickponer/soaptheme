@@ -326,7 +326,7 @@ $(document).ready(function()
 					bar.text.style.fontFamily = '"Montserrat", sans-serif';
 					bar.text.style.fontSize = '60px';
 					bar.text.style.fontWeight = '400';
-					bar.text.style.color = "#131a2f";
+					bar.text.style.color = "# ";
 
 
 					bar.animate(endValue);  // Number from 0.0 to 1.0
