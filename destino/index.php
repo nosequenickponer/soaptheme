@@ -99,6 +99,7 @@
 							<div class="find_item">
 								<div>Tipo de aventura</div>
 								<select name="adventure" id="adventure" class="dropdown_item_select find_input">
+									<option>&nbsp;</option>
 									<option>Apnea</option>
 									<option>Cicloculturismo</option>
 									<option>Puenting</option>
